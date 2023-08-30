@@ -1,6 +1,6 @@
 # Math for security
 
-## `A library for big numbers`
+## `A library for big numbers + RSA implemented`
 
 ## Binome:
 - Maria UKANWA
