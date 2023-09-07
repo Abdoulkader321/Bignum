@@ -2,6 +2,9 @@
 
 ## `A library for big numbers + RSA implemented`
 
+- Library that supports arithmetic operations on large numbers.
+- Implementation of the RSA algorithm using this library.
+
 ## Binome:
 - Maria UKANWA
 - Abdoulkader MOUSSA MOHAMED
